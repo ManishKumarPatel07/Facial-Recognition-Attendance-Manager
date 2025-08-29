@@ -55,7 +55,7 @@ pip install dlib face_recognition
 
 ###3️⃣ Run the project
 python AttendanceProject.py
-
+```
 
 ## 🚀 How It Works
 
