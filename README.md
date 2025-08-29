@@ -50,7 +50,9 @@ Face-recognition-Attendance-System/
 git clone https://github.com/ManishKumarPatel07/Facial-Recognition-Attendance-Manager.git
 cd Face-recognition-Attendance-Manager
 ```
-###2️⃣ Install dependencies
+
+2️⃣ Install dependencies
+
 ```bash
 pip install python3 --31011
 
@@ -59,7 +61,8 @@ pip install cmake
 pip install dlib face_recognition
 ```
 
-###3️⃣ Run the project
+3️⃣ Run the project
+
 ```bash
 python AttendanceProject.py
 ```
