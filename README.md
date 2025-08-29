@@ -88,13 +88,13 @@ python AttendanceProject.py
 ## 📸 Screenshots
 
 
-**- Face detection screen**
+1. **Face detection screen:**
   <img src="https://github.com/ManishKumarPatel07/Facial-Recognition-Attendance-Manager/blob/main/Facial%20Recognition%20Attendance%20Manager/img/Face%20detection%20screen.png">
   
-**- Recognition match screen**
+2. **Recognition match screen:**
   <img src="https://github.com/ManishKumarPatel07/Facial-Recognition-Attendance-Manager/blob/main/Facial%20Recognition%20Attendance%20Manager/img/Recognition%20match%20screen.png"> 
   
-**- `attendance.csv` preview**
+3. ** `attendance.csv` preview:**
   <img src="https://github.com/ManishKumarPatel07/Facial-Recognition-Attendance-Manager/blob/main/Facial%20Recognition%20Attendance%20Manager/img/attendance.png">
 
 
