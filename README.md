@@ -30,9 +30,13 @@ This project leverages **OpenCV, dlib, and face_recognition** libraries to imple
 
 ## 📂 Project Structure  
 Face-recognition-Attendance-System/
+
 │── AttendanceProject.py       # Main application script
+
 │── face_recognition.py        # Face recognition logic
+
 │── Images_Attendance/         # Folder containing images of registered users
+
 │── attendance.csv             # Attendance log file
 
 
@@ -45,15 +49,18 @@ Face-recognition-Attendance-System/
 ```bash
 git clone https://github.com/ManishKumarPatel07/Facial-Recognition-Attendance-Manager.git
 cd Face-recognition-Attendance-Manager
-
+```
 ###2️⃣ Install dependencies
+```bash
 pip install python3 --31011
 
 pip install cmake
 
 pip install dlib face_recognition
+```
 
 ###3️⃣ Run the project
+```bash
 python AttendanceProject.py
 ```
 
